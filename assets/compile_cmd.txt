@@ -1,0 +1,1 @@
+pyinstaller --onefile --clean --distpath "path\to\dist" --icon="C:\Users\Ilan\Desktop\exe_killer\V1.0.0\assets\icon.ico" main.py
